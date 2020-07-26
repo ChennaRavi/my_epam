@@ -1,0 +1,8 @@
+// first task __git file submission
+// comments addded later file commiting once
+
+class Simple{
+public static void main(String args[]){
+System. out. println("Hello Java");
+}
+}
